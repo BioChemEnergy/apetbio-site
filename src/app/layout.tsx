@@ -1,3 +1,5 @@
+import "../styles/globals.css";
+
 export const metadata = {
   title: 'ApetBio Project',
   description: 'Web for dissemination of ApetBio project outputs',
