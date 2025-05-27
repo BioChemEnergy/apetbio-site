@@ -17,6 +17,15 @@ const outputs: Output[] = [
   },
 ];
 
+  {
+    title: 'D1_2 Príručka pre spracovanie dát',
+    description:
+      'Tento dokument definuje metodiku a princípy pre správne zhromažďovanie, ukladanie a zdieľanie dát v rámci projektu APETBIO. Slúži ako praktická príručka pre výskumníkov a partnerov zapojených do spracovania výskumných výstupov.',
+    fileUrl: '/outputs/D1_2_prirucka_pre_spracovanie_dat.pdf',
+  },
+
+
+
 export default function OutputsPage() {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
 
