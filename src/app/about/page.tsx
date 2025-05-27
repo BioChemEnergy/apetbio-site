@@ -22,9 +22,17 @@ export default function AboutPage() {
         Projekt je realizovaný v rámci <strong>Plánu obnovy a odolnosti SR</strong> (výzva č. <strong>09I04-03-V02</strong>, kód projektu <strong>09I04-03-V02-00025</strong>) s podporou <strong>Európskej únie – NextGenerationEU</strong>. Hlavným riešiteľom je <strong>Technická univerzita v Košiciach</strong> v spolupráci s firmou <strong>MEPS s.r.o.</strong>
       </p>
 
-      <p className="mb-4">
+      <p className="mb-12">
         Projekt má charakter základného výskumu (TRL 1) a je v súlade so stratégiami <em>„Z farmy na vidličku“</em>, <em>Európskou zelenou dohodou</em> a cieľmi <em>Fit for 55</em>.
       </p>
+
+      <footer className="mt-16 border-t pt-6">
+        <img
+          src="/eu-poo-footer.png"
+          alt="Plán obnovy a NextGenerationEU"
+          className="w-full max-w-xl mx-auto"
+        />
+      </footer>
     </main>
   );
 }
