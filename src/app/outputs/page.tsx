@@ -10,12 +10,11 @@ type Output = {
 
 const outputs: Output[] = [
   {
-    title: 'Analýza výživových hodnôt odpadu',
+    title: 'D1_1 Projektová príručka',
     description:
-      'Dokument obsahuje výživové profily rôznych typov potravinového a kuchynského odpadu vhodného pre spracovanie pomocou hmyzu.',
-    fileUrl: '/outputs/analyza-vyzivovych-hodnot.pdf',
+      'Tento dokument slúži ako interná metodická príručka projektu APETBIO. Obsahuje organizačné a administratívne pravidlá pre partnerov projektu, vrátane postupu pri evidencii výstupov, komunikácie a plnení úloh.',
+    fileUrl: '/outputs/D1_1_projektova_prirucka.pdf',
   },
-  // Pridaj ďalšie výstupy sem rovnakým štýlom
 ];
 
 export default function OutputsPage() {
