@@ -15,14 +15,13 @@ const outputs: Output[] = [
       'Tento dokument slúži ako interná metodická príručka projektu APETBIO. Obsahuje organizačné a administratívne pravidlá pre partnerov projektu, vrátane postupu pri evidencii výstupov, komunikácie a plnení úloh.',
     fileUrl: '/outputs/D1_1_projektova_prirucka.pdf',
   },
-];
-
   {
     title: 'D1_2 Príručka pre spracovanie dát',
     description:
-      'Tento dokument definuje metodiku a princípy pre správne zhromažďovanie, ukladanie a zdieľanie dát v rámci projektu APETBIO. Slúži ako praktická príručka pre výskumníkov a partnerov zapojených do spracovania výskumných výstupov.',
+      'Tento dokument obsahuje štandardizovaný postup pre prácu s dátami v projekte APETBIO. Definuje formáty výstupov, ukladanie dát, kontrolu kvality a pravidlá pre zdieľanie medzi partnermi projektu.',
     fileUrl: '/outputs/D1_2_prirucka_pre_spracovanie_dat.pdf',
   },
+];
 
 
 
