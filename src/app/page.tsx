@@ -15,7 +15,7 @@ export default function Home() {
           <ul className="list-disc list-inside text-gray-800">
             <li><strong>Kód projektu:</strong> 09I04-03-V2-00025</li>
             <li><strong>Kód výzvy:</strong> 09I04-03-V2</li>
-            <li><strong>Hlavný žiadateľ:</strong> Technická univerzita v Košiciach</li>
+            <li><strong>Prijímateľ:</strong> Technická univerzita v Košiciach</li>
             <li><strong>Partner:</strong> MEPS s.r.o.</li>
           </ul>
         </div>
