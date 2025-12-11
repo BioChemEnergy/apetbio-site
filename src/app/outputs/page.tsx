@@ -21,9 +21,13 @@ const outputs: Output[] = [
       'Tento dokument obsahuje štandardizovaný postup pre prácu s dátami v projekte APETBIO. Definuje formáty výstupov, ukladanie dát, kontrolu kvality a pravidlá pre zdieľanie medzi partnermi projektu.',
     fileUrl: '/outputs/D1_2_prirucka_pre_spracovanie_dat.pdf',
   },
+  {
+    title: 'D1.3 Priebežná správa o implementácii a dosiahnutých výsledkoch projektu',
+    description:
+      'Tento dokument obsahuje súhrn priebežnej implementácie projektu APETBIO, dosiahnuté výsledky a identifikované výzvy počas riešenia projektu.',
+    fileUrl: '/outputs/D1.3_Priebežná_správa_o_implementácii_a_dosiahnutýc_výsledkoch_projektu.pdf',
+  },
 ];
-
-
 
 export default function OutputsPage() {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
