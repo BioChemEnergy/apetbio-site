@@ -27,6 +27,12 @@ const outputs: Output[] = [
       'Tento dokument obsahuje súhrn priebežnej implementácie projektu APETBIO, dosiahnuté výsledky a identifikované výzvy počas riešenia projektu.',
     fileUrl: '/outputs/D1.3_Priebežná_správa_o_implementácii_a_dosiahnutýc_výsledkoch_projektu.pdf',
   },
+  {
+  title: 'D3.1 Štúdia o neofóbiách v oblasti využitia proteínu hmyzu v národnom hospodárstve',
+  description:
+    'Štúdia sa zameriava na analýzu neofóbií a bariér pri prijímaní hmyzích proteínov v národnom hospodárstve a identifikuje faktory ovplyvňujúce akceptáciu.',
+  fileUrl: '/outputs/D3.1_Štúdia_o_neofóbiách_v_oblasti_využitia_proteínu_hmyzu_v_národnom_hospodárstve.pdf',
+},
 ];
 
 export default function OutputsPage() {
