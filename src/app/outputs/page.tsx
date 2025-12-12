@@ -10,13 +10,13 @@ type Output = {
 
 const outputs: Output[] = [
   {
-    title: 'D1_1 Projektová príručka',
+    title: 'D1.1 Projektová príručka',
     description:
       'Tento dokument slúži ako interná metodická príručka projektu APETBIO. Obsahuje organizačné a administratívne pravidlá pre partnerov projektu, vrátane postupu pri evidencii výstupov, komunikácie a plnení úloh.',
     fileUrl: '/outputs/D1_1_projektova_prirucka.pdf',
   },
   {
-    title: 'D1_2 Príručka pre spracovanie dát',
+    title: 'D1.2 Príručka pre spracovanie dát',
     description:
       'Tento dokument obsahuje štandardizovaný postup pre prácu s dátami v projekte APETBIO. Definuje formáty výstupov, ukladanie dát, kontrolu kvality a pravidlá pre zdieľanie medzi partnermi projektu.',
     fileUrl: '/outputs/D1_2_prirucka_pre_spracovanie_dat.pdf',
