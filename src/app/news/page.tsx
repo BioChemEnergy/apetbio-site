@@ -12,7 +12,7 @@ export default function NewsPage() {
 
       <section aria-label="Projektové nástroje">
         <a
-          href="https://umbaja.github.io/Mapa-producentv/"
+          href="/databaza-biomasy/index.html"
           className="inline-flex w-full sm:w-auto items-center justify-center px-6 py-3 bg-green-600 text-white font-semibold text-center rounded-xl hover:bg-green-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-700"
         >
           Databáza odpadovej biomasy KPB2
